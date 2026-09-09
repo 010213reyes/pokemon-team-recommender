@@ -1,0 +1,28 @@
+# Entorno virtual
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Datos
+data/raw/*
+!data/raw/.gitkeep
+
+# Modelos generados
+models/*
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Variables de entorno
+.env
