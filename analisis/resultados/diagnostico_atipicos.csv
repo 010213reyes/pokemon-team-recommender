@@ -1,0 +1,7 @@
+estadistica,limite_inferior,limite_superior,atipicos,porcentaje
+attack,-10.5,153.5,0,0.0
+defense,-1.0,135.0,2,1.32
+hp,-7.5,132.5,3,1.99
+special-attack,-18.75,151.25,1,0.66
+special-defense,2.5,126.5,0,0.0
+speed,-18.75,155.25,0,0.0

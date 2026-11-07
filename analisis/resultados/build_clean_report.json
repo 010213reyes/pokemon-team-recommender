@@ -1,0 +1,71 @@
+{
+  "phase": "analisis_datos",
+  "operation": "validated_copy",
+  "tables": {
+    "pokemon": {
+      "rows": 151,
+      "columns": 7,
+      "source_sha256": "be80e8e23e43bfbd1c1d4484b0eb3e0756267a99c23b5534dddb3c46c523e281",
+      "clean_sha256": "be80e8e23e43bfbd1c1d4484b0eb3e0756267a99c23b5534dddb3c46c523e281",
+      "hash_match": true
+    },
+    "pokemon_stats": {
+      "rows": 906,
+      "columns": 3,
+      "source_sha256": "bb1cb567b19b55eb8a6bb3b60db757c7fc092fd996eea83e859e864faf5e701a",
+      "clean_sha256": "bb1cb567b19b55eb8a6bb3b60db757c7fc092fd996eea83e859e864faf5e701a",
+      "hash_match": true
+    },
+    "pokemon_types": {
+      "rows": 218,
+      "columns": 4,
+      "source_sha256": "42e2fe60e84f6b32549d27f589da21593d3ad78898b1d364e9687b3b0e3f6f9f",
+      "clean_sha256": "42e2fe60e84f6b32549d27f589da21593d3ad78898b1d364e9687b3b0e3f6f9f",
+      "hash_match": true
+    },
+    "pokemon_abilities": {
+      "rows": 395,
+      "columns": 5,
+      "source_sha256": "8ce47cc78a05da91fca8fe019b957a15e5e8b076e614c77c57900ee673c3b8e3",
+      "clean_sha256": "8ce47cc78a05da91fca8fe019b957a15e5e8b076e614c77c57900ee673c3b8e3",
+      "hash_match": true
+    },
+    "species": {
+      "rows": 151,
+      "columns": 7,
+      "source_sha256": "7c74c0b2e5b9782d7867ca1589c168f849ad089a8579184d94a5efb2e621277c",
+      "clean_sha256": "7c74c0b2e5b9782d7867ca1589c168f849ad089a8579184d94a5efb2e621277c",
+      "hash_match": true
+    },
+    "pokemon_varieties": {
+      "rows": 238,
+      "columns": 4,
+      "source_sha256": "2acf85147e2e81c580f32aba7773acbe6d5f9aa0e1c3d549a879064a1582e0c3",
+      "clean_sha256": "2acf85147e2e81c580f32aba7773acbe6d5f9aa0e1c3d549a879064a1582e0c3",
+      "hash_match": true
+    },
+    "types": {
+      "rows": 18,
+      "columns": 2,
+      "source_sha256": "a035576ec19c9a751b04a317fbfb93d9abcaf9706deb718f3cd471c7c0e035bd",
+      "clean_sha256": "a035576ec19c9a751b04a317fbfb93d9abcaf9706deb718f3cd471c7c0e035bd",
+      "hash_match": true
+    },
+    "type_effectiveness": {
+      "rows": 324,
+      "columns": 6,
+      "source_sha256": "02651a02db90ee7849f41e59c8e962bec41193128be193e98d502a3b4dda802f",
+      "clean_sha256": "02651a02db90ee7849f41e59c8e962bec41193128be193e98d502a3b4dda802f",
+      "hash_match": true
+    },
+    "pokemon_defensive_profile": {
+      "rows": 2718,
+      "columns": 6,
+      "source_sha256": "536f1f155ab23b9e098b396699884d043cd9905bb0b2441e119f89666838db8d",
+      "clean_sha256": "536f1f155ab23b9e098b396699884d043cd9905bb0b2441e119f89666838db8d",
+      "hash_match": true
+    }
+  },
+  "total_tables": 9,
+  "all_hashes_match": true
+}
