@@ -1,0 +1,220 @@
+{
+  "phase": "analisis_datos",
+  "passed": 53,
+  "total": 53,
+  "all_passed": true,
+  "checks": [
+    {
+      "check": "pokemon: archivos existentes",
+      "passed": true
+    },
+    {
+      "check": "pokemon: SHA-256",
+      "passed": true
+    },
+    {
+      "check": "pokemon: filas conservadas",
+      "passed": true
+    },
+    {
+      "check": "pokemon: sin nulos",
+      "passed": true
+    },
+    {
+      "check": "pokemon: sin duplicados exactos",
+      "passed": true
+    },
+    {
+      "check": "pokemon_stats: archivos existentes",
+      "passed": true
+    },
+    {
+      "check": "pokemon_stats: SHA-256",
+      "passed": true
+    },
+    {
+      "check": "pokemon_stats: filas conservadas",
+      "passed": true
+    },
+    {
+      "check": "pokemon_stats: sin nulos",
+      "passed": true
+    },
+    {
+      "check": "pokemon_stats: sin duplicados exactos",
+      "passed": true
+    },
+    {
+      "check": "pokemon_types: archivos existentes",
+      "passed": true
+    },
+    {
+      "check": "pokemon_types: SHA-256",
+      "passed": true
+    },
+    {
+      "check": "pokemon_types: filas conservadas",
+      "passed": true
+    },
+    {
+      "check": "pokemon_types: sin nulos",
+      "passed": true
+    },
+    {
+      "check": "pokemon_types: sin duplicados exactos",
+      "passed": true
+    },
+    {
+      "check": "pokemon_abilities: archivos existentes",
+      "passed": true
+    },
+    {
+      "check": "pokemon_abilities: SHA-256",
+      "passed": true
+    },
+    {
+      "check": "pokemon_abilities: filas conservadas",
+      "passed": true
+    },
+    {
+      "check": "pokemon_abilities: sin nulos",
+      "passed": true
+    },
+    {
+      "check": "pokemon_abilities: sin duplicados exactos",
+      "passed": true
+    },
+    {
+      "check": "species: archivos existentes",
+      "passed": true
+    },
+    {
+      "check": "species: SHA-256",
+      "passed": true
+    },
+    {
+      "check": "species: filas conservadas",
+      "passed": true
+    },
+    {
+      "check": "species: sin nulos",
+      "passed": true
+    },
+    {
+      "check": "species: sin duplicados exactos",
+      "passed": true
+    },
+    {
+      "check": "pokemon_varieties: archivos existentes",
+      "passed": true
+    },
+    {
+      "check": "pokemon_varieties: SHA-256",
+      "passed": true
+    },
+    {
+      "check": "pokemon_varieties: filas conservadas",
+      "passed": true
+    },
+    {
+      "check": "pokemon_varieties: sin nulos",
+      "passed": true
+    },
+    {
+      "check": "pokemon_varieties: sin duplicados exactos",
+      "passed": true
+    },
+    {
+      "check": "types: archivos existentes",
+      "passed": true
+    },
+    {
+      "check": "types: SHA-256",
+      "passed": true
+    },
+    {
+      "check": "types: filas conservadas",
+      "passed": true
+    },
+    {
+      "check": "types: sin nulos",
+      "passed": true
+    },
+    {
+      "check": "types: sin duplicados exactos",
+      "passed": true
+    },
+    {
+      "check": "type_effectiveness: archivos existentes",
+      "passed": true
+    },
+    {
+      "check": "type_effectiveness: SHA-256",
+      "passed": true
+    },
+    {
+      "check": "type_effectiveness: filas conservadas",
+      "passed": true
+    },
+    {
+      "check": "type_effectiveness: sin nulos",
+      "passed": true
+    },
+    {
+      "check": "type_effectiveness: sin duplicados exactos",
+      "passed": true
+    },
+    {
+      "check": "pokemon_defensive_profile: archivos existentes",
+      "passed": true
+    },
+    {
+      "check": "pokemon_defensive_profile: SHA-256",
+      "passed": true
+    },
+    {
+      "check": "pokemon_defensive_profile: filas conservadas",
+      "passed": true
+    },
+    {
+      "check": "pokemon_defensive_profile: sin nulos",
+      "passed": true
+    },
+    {
+      "check": "pokemon_defensive_profile: sin duplicados exactos",
+      "passed": true
+    },
+    {
+      "check": "151 Pokémon",
+      "passed": true
+    },
+    {
+      "check": "IDs Pokémon únicos",
+      "passed": true
+    },
+    {
+      "check": "6 estadísticas por Pokémon",
+      "passed": true
+    },
+    {
+      "check": "Species referenciadas",
+      "passed": true
+    },
+    {
+      "check": "Tipos de Pokémon válidos",
+      "passed": true
+    },
+    {
+      "check": "324 relaciones de tipos",
+      "passed": true
+    },
+    {
+      "check": "Multiplicadores válidos",
+      "passed": true
+    },
+    {
+      "check": "2718 perfiles defensivos",
+      "passed": true
+    }
+  ]
+}

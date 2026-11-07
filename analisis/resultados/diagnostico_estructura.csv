@@ -1,0 +1,10 @@
+tabla,filas,columnas,nulos,duplicados_exactos,memoria_mb
+pokemon,151,7,0,0,0.0141
+pokemon_stats,906,3,0,0,0.0633
+pokemon_types,218,4,0,0,0.0164
+pokemon_abilities,395,5,0,0,0.0315
+species,151,7,0,0,0.0277
+pokemon_varieties,238,4,0,0,0.0173
+types,18,2,0,0,0.0012
+type_effectiveness,324,6,0,0,0.0609
+pokemon_defensive_profile,2718,6,0,0,0.515
