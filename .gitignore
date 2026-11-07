@@ -26,3 +26,10 @@ Thumbs.db
 
 # Variables de entorno
 .env
+
+
+# Datos extraídos de PokéAPI
+data/raw/**/*.json
+
+# Reportes generados automáticamente
+ingenieria/resultados/extraccion_*.json
