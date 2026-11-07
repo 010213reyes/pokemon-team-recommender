@@ -35,3 +35,5 @@ data/raw/**/*.json
 ingenieria/resultados/extraccion_*.json
 
 data/processed/*.csv
+
+ingenieria/resultados/validacion_processed.json
