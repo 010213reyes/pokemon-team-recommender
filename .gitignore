@@ -37,3 +37,6 @@ ingenieria/resultados/extraccion_*.json
 data/processed/*.csv
 
 ingenieria/resultados/validacion_processed.json
+
+# Reporte generado de validacion integral
+ingenieria/resultados/validacion_pipeline.json
